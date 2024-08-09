@@ -14,5 +14,6 @@
 	"author" : "Edward Singleton",
 	"description": "A project that does something awesome",
 	"keywords": ["this", "is", "fun", "freecodecamp"],
-	"license":"MIT"
+	"license":"MIT",
+	"version": "1.2.0"
 }
